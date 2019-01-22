@@ -62,8 +62,14 @@ section {
    
 aside {
     flex: 1
+    
    }
    
 article {
     flex: 4
+   }
+img
+   {
+
+        width : "200px";
    }
