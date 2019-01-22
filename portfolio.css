@@ -69,7 +69,7 @@ article {
     flex: 4
    }
 img
-   {
-
-        width : "200px";
-   }
+{
+       width: 200px;
+       height: 200px;
+}
